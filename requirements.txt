@@ -1,0 +1,11 @@
+langgraph
+langchain
+langchain_core
+langchain_community
+flask
+llama-cpp-python
+ollama
+langchain-ollama
+streamlit
+python-dotenv
+langchain-groq
